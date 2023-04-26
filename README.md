@@ -1,5 +1,5 @@
 <p align="center">
-    <h2 align="center">Simple Contact List </h2>
+    <h2 align="center"> Contact List </h2>
     
 </p>
 
@@ -12,7 +12,7 @@
 <p>A very clean and smooth contact list made with <a href="https://legacy.reactjs.org/">ReactJS!</a> </p>
 <p>The Features include listing all contacts, adding and deleting contacts from the list. You can save your contact's name, email, phone.</p>
 <p>The application has validations of forms made with the <a href="https://react-hook-form.com/api/">React hook form</a> and <a href="https://zod.dev/">Zod</a>. </p>
-<p>Use the application with vercel: <a href="https://legacy.reactjs.org/">Contact List</a></p>
+<p>Use the application with vercel: <a href="https://contact-list-two-rust.vercel.app/">Contact List</a></p>
 
 ## :pushpin: Installation
 
